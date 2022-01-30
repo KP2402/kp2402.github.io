@@ -1,5 +1,5 @@
 ## K PRASHANT
-<img src="images/IMG_20191022_155051_534.jpg" alt="My Image" height="480" width="480" align="right">
+<img src="images/IMG_20191022_155051_534.jpg" alt="My Image" height="300" width="300" align="right">
 
 Software Developer with proficiency in designing, developing and delivering top engineering solutions. Showcasing great ownership with the deliveries and maintaining valuable relationships with the shareholders. 
 
@@ -8,7 +8,6 @@ Served as a SME on creating the Future State Architecture that focused on transf
 
 Not coming from the CSE background I took every day of my career to learn and become good in various technologies I have been given the opportunity to work on with.
 
---------
 
 ## Project Details
 

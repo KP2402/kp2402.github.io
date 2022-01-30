@@ -1,6 +1,6 @@
 ## K PRASHANT
 
-![My Image](https://photos.google.com/u/1/photo/AF1QipPYi9CzNZ7Uu0zGXSm_BPEQt7CgpI4gxYZyrPN2)
+![My Image](images/IMG_20200305_112139_Bokeh.jpg)
 
 Software Developer with proficiency in designing, developing and delivering top engineering solutions. Showcasing great ownership with the deliveries and maintaining valuable relationships with the shareholders. Served as a SME on creating the Future State Architecture that focused on transforming several legacy systems into micro-services as a scope of meeting the product goal.
 

@@ -1,6 +1,6 @@
 ## K PRASHANT
 
-Software Developer with proficiency in designing, developing and delivering top engineering solutions. Showcasing great ownership with the deliveries and maintaining valuable relationships with the shareholders. 
+Software Developer with proficiency in designing, developing and delivering top engineering solutions. Showcasing great ownership with the deliveries and maintaining valuable relationships with the shareholders. Served as a SME on creating the Future State Architecture that focused on transforming several legacy systems into micro-services as a scope of meeting the product goal.
 
 Not coming from the CSE background I took every day of my career to learn and become good in various technologies I have been given the opportunity to work on with.
 
@@ -21,8 +21,3 @@ In Global Private Banking, it is a commonplace for data analytics tools to be us
 #### (June 2016 - December 2017)
 ##### Profit,Loss & Sensitivity for Fixed Income Products:
 Hedging is used to reduce the risk of adverse price movements in an asset class by taking an offsetting position in a related asset. This project deals with calculating PnL for the portfolio and it’s sensitivity like Delta Risk, Beta Risk etc.
-
-
-Served as a SME on creating the Future State Architecture that focused on transforming several legacy systems into micro-services as a scope of meeting the product goal.
-
-

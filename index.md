@@ -14,10 +14,38 @@ Not coming from the CSE background I took every day of my career to learn and be
 
 ## Project Details
 
+### (November 2021 - January 2022
+### Migrating monitroing plaform from ELK to Grafana:
+Worked on migrating our monitoring platform from ELK to Grafana-Loki-Promethues based platform to ensure smooth transition of our monitoring to Kubernetes preferred stack. This task has helped me explore the difference between various monitoring platform.
+
+##### Technology Used
+- Elasticsearch
+- Kibana
+- Logstash
+- Beats (filebeat, heartbeat, metricbeat)
+- Grafana
+- Prometheus
+- Loki
+- Promtail
+- Exporters (Process exporter, Node Exporter)
+- PostgreSQL
+- Cassandra
 
 ### (January 2018 - Present)
 ### GoldenEye (Front Office Data Store):
 Started as a POC and now converted to a full funded project, this project focuses on building cloud native, fault tolerant and highly scalable platform using Java based microservices in order to build strategic trade store for Fixed Income and BSM business within Global Banking and Markets. As a part of Future State Architecture this project also focuses on creating an in-house trade booking platform, hence demising a plethora of legacy systems used to book trades for this business.
+
+#### Technology Used
+- Java 8/11
+- gRPC
+- JMS (ActiveMQ, IBM MQ, Solace)
+- Rest APIs
+- Vert.x
+- ELK
+- Shell Scripting
+- Rundeck
+- Gradle
+- MongoDB
 
 
 ### (January  2020 - Present)

@@ -33,7 +33,7 @@ Started as a POC and now converted to a full funded project, this project focuse
 - Jenkins
 
 ---
-### Migrating monitroing plaform from ELK to Grafana:
+### Migrating monitoring platform from ELK to Grafana:
 #### (November 2021 - January 2022)
 ---
 Worked on migrating our monitoring platform from ELK to Grafana-Loki-Promethues based platform to ensure smooth transition of our monitoring to Kubernetes preferred stack. This task has helped me explore the difference between various monitoring platform.
